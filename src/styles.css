@@ -41,7 +41,6 @@
 @media(max-width:820px){.appliance-visual{will-change:transform}.hero-scroll-enabled .hero-machine{will-change:transform}}
 @media(prefers-reduced-motion:reduce){.hero-machine,.fan-blades{animation:none!important}.hero-scroll-enabled .hero-machine{will-change:auto}.appliance-visual{will-change:auto!important}}
 /* Previene trabajo de diseño fuera de pantalla, conservando el espacio aproximado. */
-.gallery,.compare,.reviews,.contact{content-visibility:auto;contain-intrinsic-size:auto 900px}
 
 @media(max-width:820px){:root{font-family:system-ui,-apple-system,'Segoe UI',sans-serif;--display:system-ui,-apple-system,'Segoe UI',sans-serif}}
 
